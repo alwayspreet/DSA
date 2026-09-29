@@ -1,6 +1,6 @@
 # DSA Practice
 
-Data structures and algorithms solutions in Java, solved on LeetCode.
+Data structures and algorithms solutions in Java, solved in IntelliJ IDEA
 
 ## Problems
 
